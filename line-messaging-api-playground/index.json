@@ -36,7 +36,6 @@
   },
   "files": [],
   "environment": {
-    "hideintro": true,
     "uilayout": "editor-terminal"
   },
   "backend": {
