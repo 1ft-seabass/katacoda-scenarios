@@ -1,5 +1,8 @@
+sudo npm install -g n
+sudo n latest
+
 echo "This is automatically run when the scenario"
-echo "node-red-playground version 0.0.18"
+echo "node-red-playground version 0.0.19"
 
 node -v
 npm -v
