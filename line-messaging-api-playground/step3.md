@@ -1,8 +1,6 @@
 左下のターミネルウィンドウで以下のコマンドを打ち込んで起動します。
 
-```
-node server.js
-```
+`node server.js`{{execute}}
 
 起動すると ```Server running at port 3000``` と表示されたらOKです。
 
