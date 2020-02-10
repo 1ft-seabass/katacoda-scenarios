@@ -2,9 +2,7 @@
 
 ターミナルで以下のコマンドを打ってNode.jsのバージョンを確認します。
 
-```
-node -v
-```
+```node -v```{{execute}}
 
 バージョンが出ればNode.jsが使えます。
 
@@ -12,9 +10,7 @@ node -v
 
 ターミナルで以下のコマンドを打ってnpmのバージョンも確認します。
 
-```
-npm -v
-```
+```npm -v```{{execute}}
 
 バージョンが出ればnpmが使えます。
 
@@ -22,15 +18,11 @@ npm -v
 
 ターミナルで以下のコマンドを打ってNode-REDをインストールします。
 
-```
-sudo npm install -g --unsafe-perm node-red
-```
+```sudo npm install -g --unsafe-perm node-red```{{execute}}
 
 インストールできたら以下のコマンド打ちます。
 
-```
-node-red
-```
+```node-red```{{execute}}
 
 最初にNode-REDインストールされます。
 
