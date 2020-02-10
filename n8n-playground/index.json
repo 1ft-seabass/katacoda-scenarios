@@ -1,0 +1,29 @@
+{
+  "title": "n8n Playground(ja)",
+  "description": "This teaching material is n8n Playground.",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Pathway Files",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+        "text": "intro.md",
+        "courseData": "background.sh",
+        "code": "foreground.sh",
+        "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "files": [],
+  "environment": {
+    "hideintro": true,
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "node"
+  }
+}
