@@ -17,6 +17,7 @@
     }
   },
   "environment": {
+    "hideintro": true,
     "showdashboard": true,
     "dashboards": [{"name": "Node-RED Open", "port": 1880}],
     "uilayout": "terminal"
