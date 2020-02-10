@@ -21,7 +21,8 @@
   "files": [],
   "environment": {
     "hideintro": true,
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal",
+    "showdashboard": true
   },
   "backend": {
     "imageid": "node"
