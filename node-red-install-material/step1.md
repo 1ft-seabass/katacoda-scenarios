@@ -26,10 +26,8 @@
 
 最初にNode-REDインストールされます。
 
-```
-Welcome to Node-RED
-===================
-```
+> Welcome to Node-RED
+> ===================
 
 や
 
