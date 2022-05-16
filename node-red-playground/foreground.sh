@@ -1,8 +1,10 @@
 sudo npm install -g n
-sudo n latest
+
+# latest から lts へ
+sudo n lts
 
 echo "This is automatically run when the scenario"
-echo "node-red-playground version 0.0.19"
+echo "node-red-playground version 0.0.20"
 
 node -v
 npm -v

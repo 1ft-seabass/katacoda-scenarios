@@ -1,5 +1,7 @@
 sudo npm install -g n
-sudo n latest
+
+# latest から lts へ
+sudo n lts
 
 echo "This is automatically run when the scenario"
-echo "node-red-install-material version 0.0.2"
+echo "node-red-install-material version 0.0.3"
